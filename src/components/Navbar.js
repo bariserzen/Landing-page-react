@@ -25,7 +25,6 @@ const Navbar = () => {
              <li className='nav-item'><a href='/'>About</a></li>
              <li className='nav-item'><a href='/'>FAQ</a></li>
              <li className='nav-item'><a href='/'>Contact</a></li>
-             
        </ul>
 
        <div className='hamburger' onClick={clickHandler}>

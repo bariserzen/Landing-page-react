@@ -76,9 +76,14 @@
     margin-bottom: 20px;
 }
 
+.social-login {
+margin-left: 8px;
+}
+
+
 .social-login span {
     background: var(--white);
-    padding: 16px 45px 6px 45px;
+    padding: 16px 45px 6px 40px;
     border: 1px solid var(--lightgrey);
     border-radius: 4px;
 }
@@ -112,7 +117,6 @@ form input {
 
 form input:hover {
     border: 2px solid var(--lightgrey);
-    padding: .4rem;
 }
 
 button {
